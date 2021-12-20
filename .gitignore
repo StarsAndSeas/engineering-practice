@@ -1,0 +1,10 @@
+#image
+*.png
+*.jpg
+
+
+#document
+*.docx
+*.doc
+*.pdf
+*.ppt
